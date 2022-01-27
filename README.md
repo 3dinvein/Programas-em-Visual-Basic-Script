@@ -1,5 +1,5 @@
 # PROGRAMAS EM VISUAL BASIC SCRIPT
-<br>
+
 ## Os programas em Visual Basic Script (.vbs), atuam tanto na parte de ações e eventos quanto na manipulação de objetos.
 <br><br>
 ## Normalmente, o VBS é criado para automatizar e por isso costuma-se a trabalhar junto a uma GPO( Política de Grupo )
