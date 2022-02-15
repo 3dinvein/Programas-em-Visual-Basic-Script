@@ -1,6 +1,4 @@
-# PROGRAMAS EM VISUAL BASIC SCRIPT 
-Scripts para automação de Windows Desktop ou Server
-<br><br>
+# PROGRAMAS EM VISUAL BASIC SCRIPT <br><br>
 
 ## Os programas em Visual Basic Script (.vbs), atuam tanto na parte de ações e eventos quanto na manipulação de objetos.
 <br><br>
