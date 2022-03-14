@@ -14,6 +14,7 @@ Exemplo 2: Podemos também criar janelas dialogs e manipular objetos como o prom
 <a href="https://github.com/3dinvein/Programas-em-Visual-Basic-Script/tree/main/CRIA-DIRETORIOS-COM-ARQUIVOS">CRIA DIRETÓRIOS COM ARQUIVOS</a><br><br>
 <a href="https://github.com/3dinvein/Programas-em-Visual-Basic-Script/tree/main/CRIAR-USUARIO-AUTOMATICAMENTE-NO-AD">CRIAR USUÁRIO AUTOMATICAMENTE NO AD</a><br><br>
 <a href="https://github.com/3dinvein/Programas-em-Visual-Basic-Script/tree/main/DESCOMPACTAR">DESCOMPACTAR</a><br><br>
+<a href="https://github.com/3dinvein/Programas-em-Visual-Basic-Script/tree/main/ENVIAR-EMAIL">ENVIAR EMAIL</a><br><br>
 <a href="https://github.com/3dinvein/Programas-em-Visual-Basic-Script/tree/main/EXECUTAR-UM-PROGRAMA">EXECUTAR UM PROGRAMA</a><br><br>
 <a href="https://github.com/3dinvein/Programas-em-Visual-Basic-Script/tree/main/LIMPADOR-PASSA-GERAL">LIMPADOR PASSA GERAL</a><br><br>
 <a href="https://github.com/3dinvein/Programas-em-Visual-Basic-Script/tree/main/MAPEADOR-DE-PASTA-DE-REDE">MAPEADOR DE PASTA DE REDE</a><br><br>
